@@ -1,0 +1,11 @@
+PATH
+C:\Program Files\Java\jdk1.8.0_25\bin;
+
+
+CLASSPATH
+C:\Program Files\Java\jdk1.8.0_25\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_25\lib\tools.jar;
+
+PATH
+C:\Program Files\Java\jdk-10.0.1\bin;
+
+CLASSPATH
